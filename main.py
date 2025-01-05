@@ -1,15 +1,15 @@
 import math
 
 base_wb_B = 150     # base badge wish boost
-base_wb_F = 200     # base first wish boost
-wl = 500            # number of wishes in your roll type
-wp = 1/499          # wish protection rate
-C_D = 30708         # number of disabled characters in your roll type
-C_L = 0             # number of unclaimed characters in your roll type
-C_T = 31708         # total number of characters in your roll type
+base_wb_F = 390     # base first wish boost
+wl = 4            # number of wishes in your roll type
+wp = 1/9411          # wish protection rate
+C_D = 10000         # number of disabled characters in your roll type
+C_L = 39614             # number of unclaimed characters in your roll type
+C_T = 40258          # total number of characters in your roll type
 pr = 1              # your personal rare value
-base_n = 0          # number of total rolls
-base_bonus_n = 1    # number of bonus rolls
+base_n = 8          # number of total rolls
+base_bonus_n = 7   # number of bonus rolls
 x = 1               # number of wishes you want
 
 
